@@ -1,10 +1,16 @@
-# NLP Project 1 — QTL Terminology Mining
+# NLP Project 1 — QTL Terminology Mining (Colab)
 
-Analyze QTL abstracts, build word clouds (frequency + TF-IDF), train Word2Vec, extract phrases (Gensim bigram+trigram, NP-chunking), and exact-match phrases to a trait dictionary.
+Run the project entirely in **Google Colab** (no local Python env needed).
 
-## Setup
+## Colab steps
+
+### 1) Upload files
+In Colab, upload these to `/content`:
+- `solution.py`
+- `QTL_text.json`
+- `Trait_dictionary.txt`
+
+### 2) Install deps and run
 ```bash
-python -m venv .venv
-source .venv/bin/activate    # Windows: .venv\Scripts\activate
-pip install -U pip
-pip install nltk gensim scikit-learn wordcloud
+pip install -q nltk gensim scikit-learn wordcloud
+python solution.py
