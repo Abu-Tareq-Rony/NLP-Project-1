@@ -1,0 +1,233 @@
+Total extracted NP phrases: 26230
+Matches in trait dictionary: 230
+Matched terms:
+abdominal fat
+abdominal fat weight
+ability
+abnormal sperm
+abomasum
+adipose tissue
+amount
+antibody
+ap
+area
+backfat
+backfat thickness
+bacterial infection
+balance
+behavior
+birth
+blood
+blood cholesterol
+body
+body conformation
+body height
+body length
+body size
+body weight
+bone
+bone strength
+bone structure
+brain
+breast muscle
+breeding
+bw
+carcass
+carcass length
+carcass weight
+cardiovascular disease
+cecum
+central nervous system
+clean wool yield
+colostrum
+comb mass
+concentration
+connective tissue
+consumption
+content
+cortical bone
+count
+diameter
+differential white blood cell
+digestive function
+dressing percentage
+ear size
+egg
+egg number
+egg production
+egg size
+egg weight
+egg yolk
+ejaculation duration
+eye
+eye development
+fat
+fat depth
+fat thickness
+fatty acid
+feather pigmentation
+feather tract
+feed conversion
+feed conversion ratio
+female fertility
+femur weight
+fertility
+fetal growth
+flavor score
+food intake
+foot angle
+gamete
+gestation
+gestation length
+gizzard weight
+glucose metabolism
+growth
+ham
+ham weight
+head
+heart
+heart girth
+heart weight
+height
+hip
+homeostasis
+horn length
+horn number
+hypothalamus
+igg1
+immune response
+immune system
+infection
+insulin secretion
+interferon
+intermuscular fat
+intramuscular fat
+intramuscular fat content
+lactation
+lactose yield
+leg muscle
+length
+level
+linoleic acid
+linolenic acid
+lipid metabolism
+litter
+litter size
+liver
+loin
+loin eye area
+loin muscle area
+loin yield
+longissimus dorsi muscle
+longissimus dorsi muscle area
+longissimus muscle
+lung
+male fertility
+mammary gland
+mammary gland development
+maternal behavior
+mean platelet volume
+meat
+meat color
+meat ph
+meat tenderness
+metabolism
+milk
+milk composition
+milk fat
+milk mineral content
+milk protein
+milk protein content
+milk protein percentage
+milk yield
+mineral homeostasis
+mortality
+muscle
+myocardial infarction
+natural killer cell
+nervous system development
+net feed efficiency
+nipple number
+non-return rate
+normal sperm
+number
+obesity index
+offspring
+oleic acid
+ossification
+ovulation
+ovulation rate
+pancreas
+parasitic infection
+parturition
+percentage
+placenta
+platelet count
+plateletcrit
+postnatal growth
+pregnancy rate
+production
+protein
+pulmonary artery pressure
+purge loss
+rdw
+red blood cell
+reproduction
+reproductive system
+residual feed intake
+respiratory system
+response
+rib fat
+ribeye area
+rumen
+scrotal circumference
+scs
+semen
+semen volume
+semimembranosus
+semimembranosus muscle
+serum albumin
+shank
+shank diameter
+shank length
+shoulder
+skeletal muscle
+skeletal system
+small intestine
+small intestine weight
+social behavior
+somatic cell score
+sperm motility
+stearic acid
+stillbirth
+strength
+subcutaneous fat
+subcutaneous fat thickness
+survival
+sympathetic nervous system
+t4
+tail
+taste
+teat
+teat number
+temperament
+testes
+testis
+testis weight
+thickness
+thoracic vertebra
+thymus
+tibia
+tibia length
+time
+tlr2
+total body
+total protein
+trait
+uterine length
+vertebra
+vertebrae
+vertebral column
+weight
+wing weight
+yield
